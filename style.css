@@ -828,6 +828,10 @@ a{
         justify-content: center;
     }
 
+    .footer .logo{
+        text-align: center;
+    }
+
     .footer .logo-id{
         text-align: center;
     }
